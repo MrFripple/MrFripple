@@ -1,4 +1,4 @@
-# Hi there 👋 Sam Pool here.
+# Hi there 👋 Matt Dziedzic here.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFripple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,25 +28,9 @@
 
 
 ---
-- 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Goalbook](https://goalbookapp.com/)**.
+- 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Galvanize](https://galvanize.com/)**.
 - 💬 **Want to connect? I'd love to hear from you!**
-- 📫 sambpool@gmail.com | https://www.linkedin.com/in/sampool/
-- 🎨 Check out my portfolio here: https://sampool.dev/
-
-<!--
-**mrsampool/mrsampool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 sambpool@gmail.com | https://www.linkedin.com/in/mathewdziedzic/
 
 <!--
 **MrFripple/MrFripple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
