@@ -1,6 +1,6 @@
 # Hi there 👋 Matt Dziedzic here.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFripple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,8 +30,10 @@
 ---
 - 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Galvanize](https://galvanize.com/)**.
 - 💬 **Want to connect? I'd love to hear from you!**
-- 📫 mdzie195@gmail.com | https://www.linkedin.com/in/mathewdziedzic/
+- 📫 mdzie195@gmail.com | https://www.linkedin.com/in/mathew-dziedzic-4a722ab0/
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFripple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MrFripple/MrFripple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
