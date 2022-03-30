@@ -30,7 +30,7 @@
 ---
 - 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Galvanize](https://galvanize.com/)**.
 - 💬 **Want to connect? I'd love to hear from you!**
-- 📫 sambpool@gmail.com | https://www.linkedin.com/in/mathewdziedzic/
+- 📫 mdzie195@gmail.com | https://www.linkedin.com/in/mathewdziedzic/
 
 <!--
 **MrFripple/MrFripple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
