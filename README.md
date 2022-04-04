@@ -29,7 +29,8 @@
 
 ---
 - 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Galvanize](https://galvanize.com/)**.
-- 💬 **Want to connect? I'd love to hear from you!**
+- 🌱 I’m currently learning Google API suite particularly calender, email, contacts CRUD in a node environment 
+-  💬 **Want to connect? I'd love to hear from you!**
 - 📫 mdzie195@gmail.com | https://www.linkedin.com/in/mathew-dziedzic-4a722ab0/
 
 
